@@ -1,0 +1,52 @@
+[
+  {
+    "codigo": 1,
+    "descripcion": "papas",
+    "precio": 12.33
+  },
+  {
+    "codigo": 2,
+    "descripcion": "manzanas",
+    "precio": 54
+  },
+  {
+    "codigo": 3,
+    "descripcion": "sandia",
+    "precio": 31
+  },
+  {
+    "codigo": 4,
+    "descripcion": "zanahorias",
+    "precio": 10.5
+  },
+  {
+    "codigo": 5,
+    "descripcion": "cebollas",
+    "precio": 8.75
+  },
+  {
+    "codigo": 6,
+    "descripcion": "pimientos",
+    "precio": 15.2
+  },
+  {
+    "codigo": 7,
+    "descripcion": "brocoli",
+    "precio": 20.4
+  },
+  {
+    "codigo": 8,
+    "descripcion": "calabaza",
+    "precio": 18.3
+  },
+  {
+    "codigo": 9,
+    "descripcion": "lechuga",
+    "precio": 6.5
+  },
+  {
+    "codigo": 10,
+    "descripcion": "espinacas",
+    "precio": 9.3
+  }
+]
